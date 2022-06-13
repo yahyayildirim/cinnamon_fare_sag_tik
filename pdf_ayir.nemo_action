@@ -1,0 +1,9 @@
+[Nemo Action]
+
+Name=PDF'yi Sayfalara Böl
+Comment=PDF dosyasını dışarı aktarma
+Exec=<scripts/pdf_ayir.sh %F>
+Icon-Name=focus-legacy-systray-symbolic
+Selection=s
+Extensions=pdf;
+EscapeSpaces=true

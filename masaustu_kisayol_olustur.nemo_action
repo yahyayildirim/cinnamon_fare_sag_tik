@@ -1,0 +1,9 @@
+[Nemo Action]
+
+Name=Masaüstüne kısayol oluştur
+Comment=Masaüstü Bağlantısı #F Oluştur
+Exec=<scripts/masaustu_kisayol_olustur.sh %F>
+Icon-Name=insert-link-symbolic
+Selection=s
+Extensions=any;
+EscapeSpaces=true

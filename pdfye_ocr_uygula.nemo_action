@@ -1,0 +1,9 @@
+[Nemo Action]
+
+Name=PDF'ye OCR Uygula
+Comment=PDF dosyasını OCR işlemine tabi tutarak, yazıların kopyalanabilmesini sağlar
+Exec=<scripts/pdfye_ocr_uygula.sh %F>
+Icon-Name=xapp-annotations-squiggly-symbolic
+Selection=s
+Extensions=pdf;
+EscapeSpaces=true

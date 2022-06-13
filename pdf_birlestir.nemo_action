@@ -1,0 +1,9 @@
+[Nemo Action]
+
+Name=PDF'leri Birleştir
+Comment=PDF dosyalarını birleştir
+Exec=<scripts/pdf_birlestir.sh %F>
+Icon-Name=document-new-symbolic
+Selection=m
+Extensions=pdf;
+EscapeSpaces=true

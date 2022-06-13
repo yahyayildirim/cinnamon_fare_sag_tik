@@ -1,0 +1,9 @@
+[Nemo Action]
+
+Name=PDF'nin Boyutunu Düşür
+Comment=Büyük boyutlu PDF dosyalarının boyutunu düşürme
+Exec=<scripts/pdf_boyut_dusurme.sh %F>
+Icon-Name=add-files-to-archive-symbolic
+Selection=s
+Extensions=pdf;
+EscapeSpaces=true
