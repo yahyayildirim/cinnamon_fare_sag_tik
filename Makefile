@@ -21,4 +21,4 @@ install:
 	install pdf_boyut_dusurme.sh $(HOME)/.local/share/nemo/actions/scripts/pdf_boyut_dusurme.sh
 
 	install pdfye_ocr_uygula.nemo_action $(HOME)/.local/share/nemo/actions/pdfye_ocr_uygula.nemo_action
-	install pdfye_ocr_uygula.sh $(HOME)/.local/share/nemo/actions/scripts/pdfye_ocr_uygula.nemo_action
+	install pdfye_ocr_uygula.sh $(HOME)/.local/share/nemo/actions/scripts/pdfye_ocr_uygula.sh
