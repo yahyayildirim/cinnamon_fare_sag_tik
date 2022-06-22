@@ -13,8 +13,8 @@ install:
 	install pdf_birlestir.nemo_action $(HOME)/.local/share/nemo/actions/pdf_birlestir.nemo_action
 	install pdf_birlestir.sh $(HOME)/.local/share/nemo/actions/scripts/pdf_birlestir.sh
 
-	install pdfye_donustur_tekli.nemo_action $(HOME)/.local/share/nemo/actions/pdfye_donustur.nemo_action
-	install pdfye_donustur_coklu.nemo_action $(HOME)/.local/share/nemo/actions/pdfye_donustur.nemo_action
+	install pdfye_donustur_tekli.nemo_action $(HOME)/.local/share/nemo/actions/pdfye_donustur_tekli.nemo_action
+	install pdfye_donustur_coklu.nemo_action $(HOME)/.local/share/nemo/actions/pdfye_donustur_coklu.nemo_action
 	install pdfye_donustur.sh $(HOME)/.local/share/nemo/actions/scripts/pdfye_donustur.sh
 
 	install pdf_boyut_dusurme.nemo_action $(HOME)/.local/share/nemo/actions/pdf_boyut_dusurme.nemo_action
