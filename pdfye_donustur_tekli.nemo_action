@@ -5,5 +5,5 @@ Comment=PNG ve JPG dosyalarını PDF'ye dönüştürme
 Exec=<scripts/pdfye_donustur.sh %F>
 Icon-Name=add-files-to-archive-symbolic
 Selection=s
-Extensions=jpg;jpeg;png
+Extensions=jpg;jpeg;png;pnm;tiff;
 EscapeSpaces=true
