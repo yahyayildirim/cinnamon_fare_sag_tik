@@ -10,9 +10,9 @@ Diyanet Pardus Cinnamon Arayüzü için Fare Sağ Tık Menüsüne işlevsel men�
 # KURULUM:
 * 1- Uçbirim/Terminal açın.
 * 2- `sudo apt install pdftk img2pdf ocrmypdf` kodunu yaz enter yapın.
-* 3- `https://gitlab.com/yahyayildirim/cinnamon_actions_and_scripts/-/archive/main/cinnamon_actions_and_scripts-main.zip` adresinden dosyayı indirin.
+* 3- `https://gitlab.com/yahyayildirim/cinnamon_fare_sag_tik/-/archive/main/cinnamon_fare_sag_tik-main.zip` adresinden dosyayı indirin.
 * 4- İndirdiğiniz dosyayı arşivden çıkarın.
-* 5- Ardından `cinnamon_actions_and_scripts` klasörünün içine girin.
+* 5- Ardından `cinnamon_fare_sag_tik-main` klasörünün içine girin.
 * 6- Klasörün içine boş bir yere sağ tıklayın ve Burada Uçbirim Aç'a tıklayın.
 * 7- Son olarak açılan terminalde `make install` komutunu çalıştırın.
 * 8- Kurulum başarılı bir şekilde tamamlanmıştır.
