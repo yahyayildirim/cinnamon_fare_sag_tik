@@ -19,5 +19,5 @@ Diyanet Pardus Cinnamon Arayüzü için Fare Sağ Tık Menüsüne işlevsel men�
 
 
 # KURULUM VİDEOSU:
-[<img src="https://gitlab.com/yahyayildirim/cinnamon_fare_sag_tik/-/raw/main/poster-image.png">](https://gitlab.com/yahyayildirim/cinnamon_fare_sag_tik/-/raw/main/4_5769359895757326891.webm)
+[<img src="https://gitlab.com/yahyayildirim/cinnamon_fare_sag_tik/-/raw/main/poster-image.png">](https://gitlab.com/yahyayildirim/cinnamon_fare_sag_tik/-/raw/main/cinnamon-20220929-2.webm)
 
