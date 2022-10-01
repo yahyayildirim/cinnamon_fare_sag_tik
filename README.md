@@ -22,7 +22,7 @@ Diyanet Pardus Cinnamon Arayüzü için Fare Sağ Tık Menüsüne işlevsel men�
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true"
-    <source src="4_5769359895757326891.web" type="video/webm">
+    <source src="https://gitlab.com/yahyayildirim/cinnamon_fare_sag_tik/-/raw/main/4_5769359895757326891.web" type="video/webm">
   </video>
 </figure>
 <!-- blank line -->
