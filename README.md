@@ -16,3 +16,13 @@ Diyanet Pardus Cinnamon Arayüzü için Fare Sağ Tık Menüsüne işlevsel men�
 * 6- Klasörün içine boş bir yere sağ tıklayın ve Burada Uçbirim Aç'a tıklayın.
 * 7- Son olarak açılan terminalde `make install` komutunu çalıştırın.
 * 8- Kurulum başarılı bir şekilde tamamlanmıştır.
+
+
+# KURULUM VİDEOSU:
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true"
+    <source src="path/to/video.webm" type="video/webm">
+  </video>
+</figure>
+<!-- blank line -->
