@@ -22,7 +22,7 @@ Diyanet Pardus Cinnamon Arayüzü için Fare Sağ Tık Menüsüne işlevsel men�
 <!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true"
-    <source src="path/to/video.webm" type="video/webm">
+    <source src="4_5769359895757326891.web" type="video/webm">
   </video>
 </figure>
 <!-- blank line -->
