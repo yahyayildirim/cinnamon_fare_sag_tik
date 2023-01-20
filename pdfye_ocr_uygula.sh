@@ -26,6 +26,6 @@ elif [[ -e "$dizin/${DOSYA_ADI// /_}.pdf" ]]; then
   exit 1
 else
   # Resimden PDFye dönüştürdüğünüz dosyaların OCR işlemine tabi tutulması 
-  ocrmypdf -l tur "$@" "$dizin/${DOSYA_ADI// /_}".pdf
+  ocrmypdf -l tur --force-ocr "$@" "$dizin/${DOSYA_ADI// /_}".pdf
   exit 0
 fi
